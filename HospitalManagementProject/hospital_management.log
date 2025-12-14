@@ -1,0 +1,1735 @@
+2024-04-27 01:54:04 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:04 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:04 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:04 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Doctor John Smith removed successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Doctor John Smith removed successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Doctor John Smith removed successfully.
+2024-04-27 01:54:34 - HospitalManagement - INFO - Doctor John Smith removed successfully.
+2024-04-27 01:55:05 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:55:05 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:55:05 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:55:05 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 01:55:05 - HospitalManagement - WARNING - Doctor John Smith not found in the database.
+2024-04-27 01:55:05 - HospitalManagement - WARNING - Doctor John Smith not found in the database.
+2024-04-27 01:55:05 - HospitalManagement - WARNING - Doctor John Smith not found in the database.
+2024-04-27 01:55:05 - HospitalManagement - WARNING - Doctor John Smith not found in the database.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:27:52 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:27:52 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:27:52 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:27:52 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:27:52 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:27:52 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:27:52 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:27:52 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctor added successfully: John Smith
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctor added successfully: John Smith
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctor added successfully: John Smith
+2024-04-27 02:27:52 - HospitalManagement - INFO - Doctor added successfully: John Smith
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - WARNING - Doctor already exists in the database: John Smith
+2024-04-27 02:28:16 - HospitalManagement - WARNING - Doctor already exists in the database: John Smith
+2024-04-27 02:28:16 - HospitalManagement - WARNING - Doctor already exists in the database: John Smith
+2024-04-27 02:28:16 - HospitalManagement - WARNING - Doctor already exists in the database: John Smith
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:28:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:36:39 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:36:39 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:36:39 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:36:39 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:03 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:03 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:03 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:03 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:16 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:16 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:16 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:16 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:16 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:16 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:16 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:51 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:37:57 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:38:33 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:38:33 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:38:33 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:38:33 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:38:33 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:38:33 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:38:33 - HospitalManagement - ERROR - InPatient does not exist in the database.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:40:54 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:40:54 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:40:54 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:40:54 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:40:54 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:40:54 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:40:54 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:40:54 - HospitalManagement - ERROR - Error adding patient: PatientController.add_room() missing 1 required positional argument: 'room'
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:42:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:42:09 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:42:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:42:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:42:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:42:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-27 02:44:06 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Database operation failed: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Database operation failed: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Database operation failed: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Database operation failed: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Error removing patient: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Error removing patient: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Error removing patient: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:17 - HospitalManagement - ERROR - Error removing patient: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:44:59 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:44:59 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:44:59 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:44:59 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:45:09 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 02:45:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:45:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:45:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:45:09 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:45:15 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:15 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:15 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:15 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:15 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:15 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:15 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:15 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:15 - HospitalManagement - INFO - InPatient Vlad Mandache has been admitted.
+2024-04-27 02:45:15 - HospitalManagement - INFO - InPatient Vlad Mandache has been admitted.
+2024-04-27 02:45:15 - HospitalManagement - INFO - InPatient Vlad Mandache has been admitted.
+2024-04-27 02:45:15 - HospitalManagement - INFO - InPatient Vlad Mandache has been admitted.
+2024-04-27 02:45:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Database operation failed: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Database operation failed: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Database operation failed: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Database operation failed: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Failed to update record: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Failed to update record: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Failed to update record: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - ERROR - Failed to update record: no such column: occupied
+2024-04-27 02:45:28 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:45:28 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:46:14 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:46:14 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:46:14 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:46:14 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:46:14 - HospitalManagement - INFO - Patient Vlad Mandache successfully discharged.
+2024-04-27 02:46:44 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:46:44 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:46:44 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:46:44 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:00 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:00 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:00 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:00 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:11 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:11 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:11 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:47:11 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:43 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:43 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:43 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:43 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:53 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:53 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:53 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:51:53 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:15 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:15 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:15 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:15 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:46 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:46 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:46 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:53:46 - HospitalManagement - DEBUG - Treatment details added to patient record: testttt
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Database operation failed: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Database operation failed: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Database operation failed: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Database operation failed: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Failed to delete record: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Failed to delete record: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Failed to delete record: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - ERROR - Failed to delete record: Error binding parameter 1: type 'Room' is not supported
+2024-04-27 02:54:16 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:16 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:16 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:16 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:54:58 - HospitalManagement - INFO - Room removed successfully.
+2024-04-27 02:56:16 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:56:16 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:56:16 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:56:16 - HospitalManagement - INFO - Patient removed successfully: Vlad Mandache (ID: None)
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 19191
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:56:28 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 3
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 3
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 3
+2024-04-27 02:56:28 - HospitalManagement - INFO - Record inserted successfully, ID: 3
+2024-04-27 02:56:28 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:56:28 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:56:28 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:56:28 - HospitalManagement - INFO - New patient added successfully: Vlad Mandache
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 02:58:22 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:58:22 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:58:22 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:58:22 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:58:22 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:58:22 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:58:22 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:58:22 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctor added successfully: TEST
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctor added successfully: TEST
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctor added successfully: TEST
+2024-04-27 02:58:22 - HospitalManagement - INFO - Doctor added successfully: TEST
+2024-04-27 02:58:49 - HospitalManagement - ERROR - Error creating appointment: 'DatabaseController' object has no attribute 'full_name'
+2024-04-27 02:58:49 - HospitalManagement - ERROR - Error creating appointment: 'DatabaseController' object has no attribute 'full_name'
+2024-04-27 02:58:49 - HospitalManagement - ERROR - Error creating appointment: 'DatabaseController' object has no attribute 'full_name'
+2024-04-27 02:58:49 - HospitalManagement - ERROR - Error creating appointment: 'DatabaseController' object has no attribute 'full_name'
+2024-04-27 02:59:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:28 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:28 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:59:28 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:59:28 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:59:28 - HospitalManagement - ERROR - Error creating appointment: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 02:59:46 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:46 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:46 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:46 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 02:59:46 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 02:59:46 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 02:59:46 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 02:59:46 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 06:56:00 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:00 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:00 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:00 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:00 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 06:56:00 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 06:56:00 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 06:56:00 - HospitalManagement - ERROR - Error creating appointment: 'Appointment' object has no attribute '_date_time'
+2024-04-27 06:56:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:34 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 06:56:34 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 06:56:34 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 06:56:34 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 06:56:34 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 06:56:34 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 06:56:34 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 06:56:34 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 06:56:34 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 06:57:29 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 06:57:29 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 06:57:29 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 06:57:29 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:00:08 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:00:08 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:00:08 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:00:08 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:02:01 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:02:01 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:02:01 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:02:01 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:03:26 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:03:26 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:03:26 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:03:26 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:39 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:39 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:39 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:39 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:40 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:40 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:40 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:04:40 - HospitalManagement - INFO - No upcoming appointments for the doctor.
+2024-04-27 07:06:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to insert record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to insert record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to insert record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to insert record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Database operation failed: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to update record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to update record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to update record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - ERROR - Failed to update record: no such table: appointments
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:11 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:06:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:33 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment created successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Record updated successfully.
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:06:33 - HospitalManagement - INFO - Appointment completed and removed: Surgery
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:20 - HospitalManagement - ERROR - Error prescribing medication: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 07:07:20 - HospitalManagement - ERROR - Error prescribing medication: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 07:07:20 - HospitalManagement - ERROR - Error prescribing medication: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 07:07:20 - HospitalManagement - ERROR - Error prescribing medication: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:36 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:07:36 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:07:36 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:07:36 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:07:36 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:07:36 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:07:36 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:07:36 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:07:50 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 07:09:24 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:09:24 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:09:24 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:09:24 - HospitalManagement - DEBUG - Treatment details added to patient record: Paracetamol
+2024-04-27 07:09:24 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:09:24 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:09:24 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 07:09:24 - HospitalManagement - INFO - Prescription provided to patient: Vlad Mandache
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Tasks table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Tasks table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Tasks table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Tasks table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Table created successfully.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Shifts table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Shifts table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Shifts table created.
+2024-04-27 11:14:58 - HospitalManagement - INFO - Shifts table created.
+2024-04-27 11:23:01 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:01 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:01 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:01 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:01 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:23:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:23:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:23:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:23:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:23:01 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:23:01 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:23:01 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:23:01 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:23:01 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:23:17 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:17 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:17 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:17 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:17 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:17 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:23:38 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:11 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Record deleted successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:11 - HospitalManagement - INFO - Doctor Oumaima removed successfully.
+2024-04-27 11:26:48 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:48 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:48 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:48 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:48 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-27 11:26:48 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:26:48 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:26:48 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:26:48 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:26:48 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:26:48 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:26:48 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:26:48 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:26:48 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:26:48 - HospitalManagement - INFO - Nurse added successfully: Oumaima
+2024-04-27 11:38:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Shift added successfully with ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Shift added successfully with ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Shift added successfully with ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Shift added successfully with ID: 1
+2024-04-27 11:38:01 - HospitalManagement - INFO - Shift added successfully with ID: 1
+2024-04-27 11:39:07 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Record inserted successfully, ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Shift added successfully with ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Shift added successfully with ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Shift added successfully with ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Shift added successfully with ID: 2
+2024-04-27 11:39:07 - HospitalManagement - INFO - Shift added successfully with ID: 2
+2024-04-27 11:41:49 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:41:49 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:41:49 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:41:49 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:41:49 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:42:43 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:42:43 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:42:43 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:42:43 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:42:43 - HospitalManagement - ERROR - Error removing doctor: 'Shift' object has no attribute 'full_name'
+2024-04-27 11:43:28 - HospitalManagement - ERROR - Error removing shift: 'Shift' object has no attribute 'shift_id'
+2024-04-27 11:43:28 - HospitalManagement - ERROR - Error removing shift: 'Shift' object has no attribute 'shift_id'
+2024-04-27 11:43:28 - HospitalManagement - ERROR - Error removing shift: 'Shift' object has no attribute 'shift_id'
+2024-04-27 11:43:28 - HospitalManagement - ERROR - Error removing shift: 'Shift' object has no attribute 'shift_id'
+2024-04-27 11:43:28 - HospitalManagement - ERROR - Error removing shift: 'Shift' object has no attribute 'shift_id'
+2024-04-27 11:53:02 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-27 11:53:02 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-27 11:53:02 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-27 11:53:02 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-27 11:53:02 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:36:23 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:36:23 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:36:23 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:36:23 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:36:23 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:38:34 - HospitalManagement - ERROR - Error assigning task: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-28 18:38:34 - HospitalManagement - ERROR - Error assigning task: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-28 18:38:34 - HospitalManagement - ERROR - Error assigning task: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-28 18:38:34 - HospitalManagement - ERROR - Error assigning task: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-28 18:38:34 - HospitalManagement - ERROR - Error assigning task: PatientController.find_patient_id_by_name() missing 1 required positional argument: 'full_name'
+2024-04-28 18:39:06 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:06 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:06 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:06 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:06 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'inpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table 'outpatients' created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Doctors table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Nurses table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Appointments table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Medical history table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Tasks table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Tasks table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Tasks table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Tasks table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Tasks table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Table created successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Shifts table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Shifts table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Shifts table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Shifts table created.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Shifts table created.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Query executed successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Record updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Record updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Record updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Record updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - INFO - Record updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - DEBUG - Room added or updated successfully.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Database operation failed: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to insert record: UNIQUE constraint failed: inpatients.full_name
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Failed to add the patient to the database.
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:38 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:52 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:52 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:52 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:52 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:39:52 - HospitalManagement - ERROR - Error assigning task: 'InPatient' object has no attribute 'id'
+2024-04-28 18:41:19 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-28 18:41:19 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-28 18:41:19 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-28 18:41:19 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-28 18:41:19 - HospitalManagement - INFO - Record inserted successfully, ID: 1
+2024-04-28 18:41:19 - HospitalManagement - INFO - Task assigned to Nurse Oumaima
+2024-04-28 18:41:19 - HospitalManagement - INFO - Task assigned to Nurse Oumaima
+2024-04-28 18:41:19 - HospitalManagement - INFO - Task assigned to Nurse Oumaima
+2024-04-28 18:41:19 - HospitalManagement - INFO - Task assigned to Nurse Oumaima
+2024-04-28 18:41:19 - HospitalManagement - INFO - Task assigned to Nurse Oumaima
+2024-04-28 18:41:52 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:41:52 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:41:52 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:41:52 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:41:52 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:43:13 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:43:13 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:43:13 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:43:13 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:43:13 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:43:41 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:43:41 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:43:41 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:43:41 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:43:41 - HospitalManagement - ERROR - Error performing task: 'Nurse' object has no attribute 'assigned_tasks'
+2024-04-28 18:44:26 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:44:26 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:44:26 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:44:26 - HospitalManagement - INFO - No tasks assigned to the nurse.
+2024-04-28 18:44:26 - HospitalManagement - INFO - No tasks assigned to the nurse.
